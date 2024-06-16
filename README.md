@@ -9,7 +9,6 @@ This is a classic implementation of the Rock Paper Scissors game using HTML, CSS
 - **Dynamic Feedback:** Real-time feedback on the results of each round, including win, lose, or draw.
 - **Responsive Design:** The game interface is responsive and works well on various devices, including desktops, tablets, and mobile phones.
 - **Random Computer Moves:** The computer's choices are generated randomly to ensure a fair and unpredictable game.
-- **Score Tracking:** Keeps track of the user's and computer's scores across multiple rounds.
 
 
 #### How to Play
