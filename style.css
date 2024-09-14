@@ -52,11 +52,11 @@ body {
   width: 100px;
   margin: 20px;
 }
-.user_result img {
-  transform: rotate(90deg);
-}
+/* .user_result img {
+  transform: rotate(90deg); 
+} */
 .cpu_result img {
-  transform: rotate(-90deg) rotateY(180deg);
+  transform:  rotateY(180deg);
 }
 .result {
   text-align: center;
